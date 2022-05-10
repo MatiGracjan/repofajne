@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/zdiencia">
+        <file>kaczka.jpg</file>
+        <file>water.jpg</file>
+    </qresource>
+</RCC>
